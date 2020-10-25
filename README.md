@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Colean and I'm a small-time developer working on open-source utilities that are useful (i hope)
 
 ## 🔭 I’m currently working on
-My arch provisioning scripts (Colean128/arch-provision)
+My arch provisioning scripts (Colean128/CAPS)
 
 ## 🌱 I’m currently learning
 I'm learning more advanced Rust tricks.
